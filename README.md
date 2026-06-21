@@ -47,10 +47,6 @@ Optámos por uma stack unificada em **TypeScript** para maior produtividade e es
 
 ---
 
-## 🤝 Contribuições
-
-Este é um projeto em desenvolvimento ativo. Sinta-se à vontade para explorar o código, abrir *issues* ou sugerir melhorias!
-
 ---
 *Desenvolvido por @Erick Saraiva*
 *full stack*
