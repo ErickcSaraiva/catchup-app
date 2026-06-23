@@ -31,3 +31,4 @@ build/
 .DS_Store
 *.log
 /generated/prisma
+.expo/
